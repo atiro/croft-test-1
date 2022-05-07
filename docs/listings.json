@@ -1,0 +1,38 @@
+[
+  {
+    "listing": "/table/institution/index.html",
+    "items": [
+      "/table/institution/getty-museum.html",
+      "/table/institution/science-museum.html",
+      "/table/institution/victoria-&-albert-museum.html",
+      "/table/institution/yale-centre-for-british-art.html"
+    ]
+  },
+  {
+    "listing": "/gallery/institution/index.html",
+    "items": [
+      "/gallery/institution/art-gallery-of-ontario.html",
+      "/gallery/institution/art-institute-of-chicago.html",
+      "/gallery/institution/barnes-foundation.html",
+      "/gallery/institution/carnegie-museum-of-art.html",
+      "/gallery/institution/clyfford-still-museum.html",
+      "/gallery/institution/cooper-hewitt.html",
+      "/gallery/institution/frick-collection.html",
+      "/gallery/institution/getty-museum.html",
+      "/gallery/institution/harvard-art-museums.html",
+      "/gallery/institution/manchester-museum.html",
+      "/gallery/institution/national-gallery-of-art.html",
+      "/gallery/institution/national-museum-of-norway.html",
+      "/gallery/institution/national-museum-of-scotland.html",
+      "/gallery/institution/netherlands-institute-for-art-history-(rkd).html",
+      "/gallery/institution/philadelphia-museum-of-art.html",
+      "/gallery/institution/science-museum.html",
+      "/gallery/institution/smithsonian-institution.html",
+      "/gallery/institution/st-andrews-museum.html",
+      "/gallery/institution/the-huntingdon.html",
+      "/gallery/institution/vatican-museum.html",
+      "/gallery/institution/victoria-&-albert-museum.html",
+      "/gallery/institution/yale-centre-for-british-art.html"
+    ]
+  }
+]
