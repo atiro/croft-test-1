@@ -1,5 +1,5 @@
 
 // Registering Service Worker
 if ('serviceWorker' in navigator) {
-  navigator.serviceWorker.register('sw.js');
+  navigator.serviceWorker.register('/croft-test-1/sw.js');
 }
